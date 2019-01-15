@@ -2,7 +2,7 @@
 
 ### 您可以直接访问 [cmini777-blog](https://cmini777.gitee.io/)
 
-![blog-theme-mala](https://cmini777.gitee.io/myimg/show.png)
+![blog-theme-mala](https://raw.githubusercontent.com/CMINI777/next-minichn/master/source/myimg/show.png)
 
 ---
 
