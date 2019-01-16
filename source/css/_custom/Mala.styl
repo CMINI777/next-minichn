@@ -37,12 +37,26 @@ body {
 
 // search result
 .search-result-show{
-  width: 400px;
+  width: 50%;
   max-height: 400px;
   overflow-y: auto;
   background: #838076;
   position: absolute;
   z-index: 99;
+}
+.search-result-show::-webkit-scrollbar {
+  width: 10px;
+  height: 1px;
+}
+.search-result-show::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+  background: #535353;
+}
+.search-result-show::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  background: #c5c1be;
 }
 
 // 归档
