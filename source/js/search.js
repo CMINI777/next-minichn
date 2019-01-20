@@ -53,7 +53,7 @@ $(document).ready(function () {
                       // 返回搜索结果
                       if (isMatch) {
                       //结果标签
-                          str += "<li><a href='"+ data_url +"' class='search-result-title' target='_blank'>"+ "> " + data_title +"</a>";
+                          str += "<li><a href='"+ getProRootPath.path() +  data_url +"' class='search-result-title' target='_blank'>"+ "> " + data_title +"</a>";
                           var content = data.content.trim().replace(/<[^>]+>/g,"");
                           if (first_occur >= 0) {
                               // 拿出含有搜索字的部分
