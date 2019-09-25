@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/CMINI777/next-minichn)](https://github.com/CMINI777/next-minichn/issues) [![GitHub forks](https://img.shields.io/github/forks/CMINI777/next-minichn)](https://github.com/CMINI777/next-minichn/network) [![GitHub stars](https://img.shields.io/github/stars/CMINI777/next-minichn)](https://github.com/CMINI777/next-minichn/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/CMINI777/next-minichn)](https://github.com/CMINI777/next-minichn/issues) [![GitHub forks](https://img.shields.io/github/forks/CMINI777/next-minichn)](https://github.com/CMINI777/next-minichn/network) [![GitHub stars](https://img.shields.io/github/stars/CMINI777/next-minichn)](https://github.com/CMINI777/next-minichn/stargazers) [![GitHub license](https://img.shields.io/github/license/CMINI777/next-minichn)](https://github.com/CMINI777/next-minichn/blob/master/LICENSE)
 
 ## The theme of minichn's blog ##
 
