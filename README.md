@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/CMINI777/next-minichn)](https://github.com/CMINI777/next-minichn/issues) [![GitHub forks](https://img.shields.io/github/forks/CMINI777/next-minichn)](https://github.com/CMINI777/next-minichn/network) [![GitHub stars](https://img.shields.io/github/stars/CMINI777/next-minichn)](https://github.com/CMINI777/next-minichn/stargazers)
+
 ## The theme of minichn's blog ##
 
 ### 欢迎访问 [minichn's blog](https://cmini777.gitee.io/)
