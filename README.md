@@ -201,7 +201,7 @@ since: 2018
 
 二、 关于Hexo博客添加搜索功能说明
 ```
-# 直接在自己的博客文件夹下安装插件
+# 直接在自己的博客根目录下安装插件
 npm install hexo-generator-searchdb --save
 # 修改blog根目录(非主题)配置文件`_config.yml`
 search:
