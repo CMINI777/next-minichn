@@ -209,7 +209,7 @@ search:
   field: post
   format: html
   limit: 10000
-# 修改主题配置文件
+# 修改主题配置文件(next-minichn/_config.yml)
 local_search:
     enable: true
 ```
